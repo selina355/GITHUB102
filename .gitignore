@@ -1,0 +1,4 @@
+**/*.csv ### in any subdirectory ignore .csv files
+**/__pycache__/ ### ignore pycache and any files within
+**/.ipynb_checkpoints/
+
